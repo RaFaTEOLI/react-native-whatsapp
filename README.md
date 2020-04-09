@@ -9,5 +9,5 @@ Here are some images of the app:
 ![alt text](https://raw.githubusercontent.com/RaFaTEOLI/react-native-whatsapp/master/project-imgs/Login.png)
 ![alt text](https://raw.githubusercontent.com/RaFaTEOLI/react-native-whatsapp/master/project-imgs/SignUp.png)
 ![alt text](https://raw.githubusercontent.com/RaFaTEOLI/react-native-whatsapp/master/project-imgs/Chats.png)
-![alt text](https://raw.githubusercontent.com/RaFaTEOLI/react-native-whatsapp/master/project-imgs/Contacts.png)
+![alt text](https://raw.githubusercontent.com/RaFaTEOLI/react-native-whatsapp/master/project-imgs/Contact.png)
 ![alt text](https://raw.githubusercontent.com/RaFaTEOLI/react-native-whatsapp/master/project-imgs/RealTimeChat.png)
